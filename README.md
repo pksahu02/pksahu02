@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pksahu02
-- 👀 I’m interested in building highly scalabale and reliant web applications on MERN Stack.
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on any projects on MERN Stack or related technologies.
+- 👀 I’m interested in building highly scalabale and reliant web applications on Java Stack.
+- 💞️ I’m looking to collaborate on any projects on springboot related technologies.
 - 📫 How to reach me- Linkedin
 
 <!---
